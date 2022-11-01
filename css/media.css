@@ -912,6 +912,9 @@
 	.partners {
 		padding-bottom: 40px;
 	}
+	.item-benefit br {
+		display: none;
+	}
 }
 
 /* Custom, iPhone Retina */
