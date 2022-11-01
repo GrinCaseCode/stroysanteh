@@ -1,0 +1,960 @@
+/*==========  Desktop First Method  ==========*/
+@media only screen and (max-width : 1540px) {
+	body {
+		font-size: 15px;
+	}
+	.menu a {
+		font-size: 16px;
+	}
+	.header {
+		font-size: 13px;
+	}
+	.header__center {
+		margin: 0 70px;
+	}
+	.phones-list {
+		font-size: 15px;
+	}
+	.title-big {
+		font-size: 50px;
+		line-height: 74px;
+	}
+	.descr-billbord {
+		font-size: 32px;
+		line-height: 45px;
+	}
+	.text-billbord {
+		font-size: 18px;
+		margin-bottom: 50px;
+	}
+	.slider-benefits .slick-slide {
+		padding: 18px 30px;
+	}
+	.item-benefit {
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.item-benefit__icon {
+		margin-right: 25px;
+	}
+	.benefits {
+		padding: 55px 0;
+	}
+	.item-category__image {
+		width: 310px;
+		height: 215px;
+		margin-right: 25px;
+	}
+	.item-category__title {
+		font-size: 22px;
+		line-height: 30px;
+		margin-bottom: 10px;
+	}
+	.item-category {
+		line-height: 26px;
+	}
+	.title-section {
+		font-size: 34px;
+		line-height: 48px;
+	}
+	.tabs a {
+		font-size: 21px;
+		line-height: 31px;
+		padding-bottom: 10px;
+	}
+	.tabs li {
+		margin-bottom: 23px;
+	}
+	.item-portfolio__image {
+		height: 290px;
+	}
+	.item-portfolio__title {
+		font-size: 18px;
+		line-height: 27px;
+	}
+	.item-portfolio__title strong {
+		font-size: 24px;
+	}
+	.design .title-section span {
+		font-size: 38px;
+		line-height: 65px;
+	}
+	.block-form {
+		padding: 53px 60px;
+		padding-bottom: 57px;
+	}
+	.file-upload {
+		margin-bottom: 30px;
+	}
+	.item-catalog__title {
+		font-size: 23px;
+		line-height: 36px;
+	}
+	.item-catalog {
+		padding: 30px;
+	}
+	.item-catalog__image {
+		height: 260px;
+		padding: 15px;
+	}
+	.sertificats .title-section, .advantages .title-section, .team .title-section, .consultation .title-section {
+		font-size: 38px;
+		line-height: 51px;
+	}
+	.list-main li {
+		padding: 35px 25px;
+		padding-left: 40px;
+	}
+	.list-main {
+		font-size: 18px;
+		line-height: 24px;
+	}
+	.item-team {
+		height: 365px;
+	}
+	.consultation-contacts__title {
+		font-size: 16px;
+	}
+	.consultation .phones-list {
+		font-size: 18px;
+	}
+	.consultation .social-list a {
+		font-size: 22px;
+	}
+	.item-team__title {
+		font-size: 16px;
+	}
+	.row_advantages > div {
+		margin-bottom: 80px;
+	}
+	.item-sertficat {
+		height: 425px;
+	}
+	.tabs_main li {
+		margin-bottom: 0;
+		margin-right: 50px;
+	}
+	.partners {
+		padding-bottom: 110px;
+	}
+	.footer {
+		padding-top: 45px;
+	}
+	.footer-bottom {
+		margin-top: 50px;
+	}
+	.title-small {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.team-main .item-team__title {
+		font-size: 22px;
+		line-height: 28px;
+	}
+	.item-advantage__number {
+		font-size: 29px;
+		line-height: 42px;
+		padding-top: 48px;
+		margin-right: 25px;
+		width: 75px;
+	}
+	.advantages .title-section {
+		padding-bottom: 60px;
+	}
+	.text-main {
+		font-size: 19px;
+		line-height: 24px;
+	}
+}
+
+@media only screen and (max-width : 1400px) {
+	.wrapper {
+		padding-top: 104px;
+	}
+	.logo img {
+		width: 183px;
+	}
+	.header {
+		padding-bottom: 20px;
+	}
+	.menu a {
+		font-size: 14px;
+	}
+	body {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.social-list a {
+		font-size: 18px;
+	}
+	.header__center {
+		margin: 0 50px;
+	}
+	.item-benefit__icon {
+		margin-right: 15px;
+	}
+	.item-benefit {
+		font-size: 14px;
+		line-height: 21px;
+	}
+	.slider-benefits .slick-slide {
+		padding: 15px 15px;
+	}
+	.title-section {
+		font-size: 30px;
+		line-height: 47px;
+	}
+	.slider-portfolio > .slick-list > .slick-track > .slick-slide {
+		padding: 0px 25px;
+	}
+	.slider-portfolio {
+		margin: 0 -25px;
+	}
+	.item-portfolio__image {
+		height: 275px;
+	}
+	.portfolio .title-section {
+		padding-bottom: 45px;
+	}
+	.slider-portfolio .slick-prev {
+		left: -17px;
+	}
+	.slider-portfolio .slick-next {
+		right: -17px;
+	}
+	.slider-portfolio .slick-arrow {
+		top: 130px;
+	}
+	.tabs a {
+		font-size: 19px;
+		line-height: 25px;
+	}
+	.portfolio {
+		padding-bottom: 80px;
+	}
+	.block-form {
+		padding: 35px 35px;
+		padding-bottom: 40px;
+	}
+	.title-small {
+		font-size: 17px;
+		line-height: 26px;
+	}
+	.text-main {
+		font-size: 18px;
+		line-height: 24px;
+	}
+	.design .title-section span {
+		font-size: 34px;
+		line-height: 59px;
+	}
+	.design .title-section {
+		margin-bottom: 40px;
+	}
+	.item-tag {
+		padding: 4px 15px;
+		font-size: 13px;
+		line-height: 23px;
+	}
+	.list-tags li {
+		margin-right: 14px;
+	}
+	.title-tags {
+		margin-right: 25px;
+	}
+	.item-catalog .btn-main {
+		padding: 0 25px;
+	}
+	.item-catalog {
+		padding: 20px;
+	}
+	.item-catalog__title {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.item-catalog__image {
+		height: 235px;
+	}
+	.sertificats .title-section, .advantages .title-section, .team .title-section, .consultation .title-section {
+		font-size: 34px;
+		line-height: 46px;
+	}
+	.item-team__content {
+		padding-bottom: 20px;
+	}
+	.consultation-form .btn-main {
+		font-size: 15px;
+		padding: 0 25px;
+	}
+	.consultation-form .title-small {
+		padding-left: 35px;
+	}
+	.row_team .item-team {
+		height: 260px;
+	}
+	.team-main .item-team__title {
+		font-size: 22px;
+		line-height: 27px;
+		margin-bottom: 5px;
+	}
+	.item-advantage__number {
+		font-size: 28px;
+		line-height: 42px;
+		padding-top: 46px;
+		margin-right: 20px;
+		width: 78px;
+	} 
+	.item-sertficat {
+		height: 360px;
+	}
+	.item-partner {
+		height: 105px;
+	}
+	.partners {
+		padding-bottom: 80px;
+	}
+	.contacts-block,
+	#map {
+		height: 465px;
+	}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	.logo img {
+		width: 160px;
+	}
+	.header__center {
+		margin: 0 25px;
+	}
+	.title-big {
+		font-size: 42px;
+		line-height: 64px;
+	}
+	.descr-billbord {
+		font-size: 27px;
+		line-height: 38px;
+	}
+	.text-billbord {
+		font-size: 16px;
+		margin-bottom: 28px;
+		margin-top: 15px;
+	}
+	.item-benefit__icon {
+		width: 33px;
+		height: 33px;
+	}
+	.item-benefit {
+		font-size: 12px;
+		line-height: 17px;
+	}
+	.benefits {
+		padding: 40px 0;
+	}
+	.categories .title-section {
+		margin-bottom: 35px;
+	}
+	.item-category__image {
+		width: 275px;
+		margin-right: 15px;
+	}
+	.item-category {
+		line-height: 23px;
+	}
+	.item-category__title {
+		font-size: 19px;
+		line-height: 26px;
+	}
+	.row_categories > div {
+		padding: 0 15px;
+	}
+	.row_categories {
+		margin: 0 -15px;
+	}
+	.categories {
+		padding-top: 40px;
+		padding-bottom: 60px;
+	}
+	.title-section {
+		font-size: 26px;
+		line-height: 40px;
+	}
+	.item-portfolio__title {
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.item-portfolio__title strong {
+		font-size: 21px;
+	}
+	.item-portfolio__image {
+		height: 245px;
+	}
+	.text-main {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.block-form .btn-main {
+		padding: 0 45px;
+	}
+	.checkbox {
+		margin-top: 25px;
+	}
+	.design {
+		padding-top: 65px;
+		padding-bottom: 70px;
+	}
+	.title-tags {
+		margin-right: 15px;
+	}
+	.list-tags li {
+		margin-right: 9px;
+		margin-bottom: 5px;
+	}
+	.item-catalog .btn-main {
+		font-size: 14px;
+	}
+	.item-catalog {
+		padding: 16px;
+	}
+	.item-catalog {
+		padding: 15px;
+	}
+	.item-team {
+		height: 315px;
+	}
+	.list-main {
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.list-main li {
+		padding: 25px 20px;
+		padding-left: 40px;
+	}
+	.consultation .phones-list {
+		font-size: 14px;
+	}
+	.consultation .social-list a {
+		font-size: 20px;
+	}
+	.consultation .social-list li {
+		margin-right: 10px;
+	}
+	.consultation-contacts__title {
+		font-size: 13px;
+	}
+	.consultation-contacts {
+		margin-top: 20px;
+	}
+	.item-team__content {
+		padding: 23px 15px;
+	}
+	.sertificats .title-section, .advantages .title-section, .team .title-section, .consultation .title-section {
+		font-size: 28px;
+		line-height: 40px;
+	}
+	.title-small {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.consultation-form .title-small {
+		padding-left: 16px;
+	}
+	.consultation-form .btn-main {
+		font-size: 14px;
+		padding: 0 12px;
+	}
+	.row_team {
+		margin: 0 -7px;
+	}
+	.row_team > div {
+		padding: 0 7px;
+		margin-bottom: 14px;
+	}
+	.team {
+		padding-top: 85px;
+		padding-bottom: 60px;
+	}
+	.advantages .title-section {
+		padding-bottom: 45px;
+	}
+	.item-sertficat {
+		height: 260px;
+	}
+	.tags-wrapper {
+		margin-bottom: 24px;
+	}
+	.footer-bottom {
+		font-size: 11px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	.wrapper {
+		padding-top: 88px;
+	}
+	.header__center,
+	.header__right {
+		display: none;
+	}
+	.image-billbord {
+		display: none;
+	}
+	.row_categories > div:nth-child(odd) {
+		border-right: none;
+	}
+	.list-tags,
+	.tabs  {
+		margin-right: -15px;
+		margin-bottom: 20px;
+		padding-bottom: 10px;
+		display: flex;
+		overflow: auto;
+		white-space: nowrap;
+	}
+	.tabs::-webkit-scrollbar {
+		-webkit-appearance: none;
+	}
+	.tabs::-webkit-scrollbar:vertical {
+		width: 3px;
+	}
+	.tabs::-webkit-scrollbar:horizontal {
+		height: 3px;
+	}
+	.tabs::-webkit-scrollbar-thumb {
+		background-color: #09B5C7;
+		border-radius: 10px;
+	}
+	.tabs::-webkit-scrollbar-track {
+		border-radius: 10px;
+		background-color: #ccc;
+	}
+	.tabs li {
+		margin-bottom: 0;
+		margin-right: 40px;
+	}
+	.portfolio {
+		padding-top: 40px;
+		padding-bottom: 60px;
+	}
+	.design .title-section {
+		margin-top: 0;
+	}
+	.design {
+		padding-top: 45px;
+		padding-bottom: 55px;
+	}
+	.design .text-main {
+		margin-bottom: 30px;
+	}
+	.tags-wrapper {
+		display: block;
+	}
+	.title-tags {
+		margin: 0;
+		margin-bottom: 15px;
+	}
+	.consultation-contacts__title {
+		font-size: 14px;
+	}
+	.consultation .consultation-form {
+		top: 0;
+	}
+	.consultation-form {
+		padding: 35px;
+	}
+	.consultation-form .title-small {
+		padding-left: 0;
+		padding-bottom: 15px;
+	}
+	.consultation-form .btn-main {
+		width: 100%;
+	}
+	.consultation-form .col-lg-9.offset-lg-3 {
+		display: flex;
+		justify-content: center;
+	}
+	.consultation-form .checkbox {
+		margin-top: 20px;
+	}
+	.team {
+		padding-top: 55px;
+		padding-bottom: 50px;
+	}
+	.team-main {
+		margin-bottom: 25px;
+	}
+	.team-main .item-team {
+		margin-bottom: 25px;
+	}
+	.team .title-section {
+		margin-bottom: 30px;
+	}
+	.advantages {
+		padding-top: 35px;
+	}
+	.row_advantages > div {
+		margin-bottom: 40px;
+	}
+	.sertificats {
+		padding-top: 35px;
+		padding-bottom: 100px;
+	}
+	.title-section {
+		font-size: 24px;
+		line-height: 35px;
+	}
+	.partners .title-section {
+		padding-top: 30px;
+		padding-bottom: 70px;
+		margin-bottom: -40px;
+		top: -40px;
+	}
+	.consultation-contacts {
+		margin-bottom: 25px;
+	}
+	.partners {
+		padding-bottom: 55px;
+	}
+	.footer__wrap {
+		display: block;
+	}
+	.footer__time {
+		margin: 15px 0;
+	}
+	.footer .btn-main {
+		margin-bottom: 20px;
+	}
+	.footer-bottom {
+		font-size: 13px;
+		margin-top: 35px;
+		text-align: center;
+	}
+	.create {
+		justify-content: center;
+	}
+	.footer-bottom .row > div {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.btn_top {
+		float: none;
+	}
+	.footer {
+		text-align: center;
+	}
+	.footer .logo img {
+		width: 200px;
+	}
+	.sandwich {
+		display: flex;
+	}
+	.menu-mobile {
+		width: 100%;
+		top: 100%;
+		left: 0;
+		height: 100vh;
+		padding: 15px 15px;
+		padding-bottom: 120px;
+		display: none;
+		overflow: auto;
+		background-color: #191A1C;
+		position: absolute;
+	}
+	.menu a {
+		margin: 0;
+		padding: 10px;
+		display: block;
+		position: relative;
+		border-bottom: 1px solid #fff;
+	}
+	.menu-mobile .menu {
+		display: block;
+		margin: 0;
+		margin-bottom: 20px;
+	}
+	.menu-mobile .contacts-main {
+		margin-top: 18px;
+		justify-content: flex-start;
+	}
+	.menu-mobile .work-time {
+		margin-top: 5px;
+	}
+	.header {
+		font-size: 14px;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.billbord {
+		padding-top: 35px;
+		padding-bottom: 55px;
+	}
+	.title-big {
+		font-size: 33px;
+		line-height: 56px;
+	}
+	.descr-billbord {
+		font-size: 21px;
+		line-height: 32px;
+	}
+	.text-billbord {
+		font-size: 14px;
+		margin-bottom: 25px;
+	}
+	.slider-benefits .slick-slide {
+		width: 50vw;
+	}
+	.slider-benefits {
+		margin-right: -15px;
+	}
+	.benefits {
+		padding: 30px 0;
+	}
+	.title-section {
+		font-size: 22px;
+		line-height: 32px;
+	}
+	.categories .title-section {
+		margin-bottom: 25px;
+	}
+	.row_categories > div {
+		border: none !important;
+	}
+	.item-category {
+		border-bottom: 1px solid rgba(245, 245, 245, 0.3);
+	}
+	.row_categories > div:first-child .item-category {
+		border-top: 1px solid rgba(245, 245, 245, 0.3);
+	}
+	.row_categories > div:nth-child(odd) {
+		padding-left: 15px;	
+	}
+	.portfolio .title-section {
+		padding-bottom: 25px;
+	}
+	.tabs a {
+		font-size: 16px;
+		line-height: 23px;
+		padding-bottom: 7px;
+	}
+	.slider-portfolio::before {
+		display: none;
+	}
+	.slider-portfolio .slick-prev {
+		left: 12px;
+	}
+	.slider-portfolio .slick-next {
+		right: 12px;
+	}
+	.slider-sertificats .slick-arrow,
+	.slider-portfolio .slick-arrow {
+		background-color: #101012;
+	}
+	.design .title-section span {
+		font-size: 30px;
+		line-height: 57px;
+	}
+	.design .title-section img {
+		max-width: 40px;
+	}
+	.design .title-section {
+		margin-bottom: 25px;
+	}
+	.text-main li {
+		padding-left: 30px;
+	}
+	.item-catalog {
+		border-bottom: 1px solid rgba(245, 245, 245, 0.3);
+	}
+	.row_catalog > div:first-child {
+		border-top: 1px solid rgba(245, 245, 245, 0.3);
+	}
+	.item-catalog {
+		padding: 20px;
+	}
+	.sertificats .title-section, .advantages .title-section, .team .title-section, .consultation .title-section {
+		font-size: 24px;
+		line-height: 38px;
+	}
+	.row_team .item-team {
+		height: 295px;
+	}
+	.slider-sertificats .slick-prev {
+		left: 8px;
+	}
+	.slider-sertificats .slick-next {
+		right: 8px;
+	}
+	.slider-partners {
+		padding-bottom: 30px;
+	}
+	.contacts-block {
+		padding: 20px 0;
+		position: relative;
+		height: auto;
+		top: 0;
+		left: 0;
+		width: 100%;
+		max-width: 100%;
+	}
+	.contacts {
+		background-color: #191A1C;
+	}
+	#map {
+		height: 300px;
+	}
+	.slider-partners .slick-dots li:not(.slick-active) button {
+		background-color: #09B5C7;
+	}
+	.sertificats .title-section {
+		padding-bottom: 35px;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	.title-big {
+		font-size: 28px;
+		line-height: 49px;
+	}
+	.descr-billbord {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.billbord .btn-main {
+		height: 70px;
+		padding: 0 25px;
+		font-size: 14px;
+		line-height: 16px;
+		width: 315px;
+	}
+	.slider-benefits .slick-slide {
+		width: 57vw;
+	}
+	.item-category {
+		display: block;
+	}
+	.item-category__image {
+		width: 100%;
+		margin: 0;
+		margin-bottom: 15px;
+	}
+	.item-category__content ul {
+		margin-bottom: 20px;
+	}
+	.categories {
+		padding-bottom: 50px;
+	}
+	.design .title-section {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.design .title-section span {
+		font-size: 26px;
+		line-height: 53px;
+	}
+	.block-form {
+		padding: 35px 20px;
+		padding-bottom: 40px;
+	}
+	.block-form .title-small {
+		margin-right: 0;
+		margin-bottom: 25px;
+	}
+	.consultation {
+		padding-top: 40px;
+	}
+	.list-main {
+		font-size: 14px;
+		line-height: 21px;
+	}
+	.consultation-contacts {
+		display: block;
+	}
+	.consultation-contacts .contacts-main {
+		justify-content: flex-start;
+	}
+	.consultation-contacts__title {
+		margin-bottom: 15px;
+	}
+	.consultation-form {
+		padding: 35px 20px;
+	}
+	.sertificats .title-section, .advantages .title-section, .team .title-section, .consultation .title-section {
+		font-size: 22px;
+		line-height: 34px;
+	}
+	.item-team__title {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.item-team {
+		font-size: 13px;
+	}
+	.team {
+		padding-top: 40px;
+		padding-bottom: 35px;
+	}
+	.row_advantages > div {
+		margin-bottom: 25px;
+	}
+	.item-sertficat {
+		height: 450px;
+	}
+	.item-partner {
+		margin: 0 7px;
+	}
+	.slider-partners {
+		margin: 0 -7px;
+	}
+	.partners {
+		padding-bottom: 40px;
+	}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	.menu-mobile {
+		display: none !important;
+	}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+@media (min-width: 1400px) {
+	.container {
+		max-width: 1380px;
+	}
+}
+@media (min-width: 1540px) {
+	.container {
+		max-width: 1470px;
+	}
+}
