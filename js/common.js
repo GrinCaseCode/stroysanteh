@@ -134,7 +134,19 @@ $(document).ready(function() {
 		{
 			breakpoint: 768,
 			settings: {
-				
+				slidesToShow: 3,
+				arrows: false,
+				slidesToScroll: 3,
+		dots: true,
+			}
+		},
+		{
+			breakpoint: 480,
+			settings: {
+				slidesToShow: 2,
+				slidesToScroll: 2,
+				arrows: false,
+		dots: true,
 			}
 		}
 		]
