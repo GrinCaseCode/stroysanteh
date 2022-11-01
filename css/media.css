@@ -814,6 +814,10 @@
 	.sertificats .title-section {
 		padding-bottom: 35px;
 	}
+	.item-benefit {
+    font-size: 13px;
+    line-height: 21px;
+}
 }
 
 /* Extra Small Devices, Phones */
