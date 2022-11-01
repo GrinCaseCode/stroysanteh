@@ -743,10 +743,10 @@
 		display: none;
 	}
 	.slider-portfolio .slick-prev {
-		left: 12px;
+		left: 20px;
 	}
 	.slider-portfolio .slick-next {
-		right: 12px;
+		right: 20px;
 	}
 	.slider-sertificats .slick-arrow,
 	.slider-portfolio .slick-arrow {
@@ -782,10 +782,10 @@
 		height: 295px;
 	}
 	.slider-sertificats .slick-prev {
-		left: 8px;
+		left: 10px;
 	}
 	.slider-sertificats .slick-next {
-		right: 8px;
+		right: 10px;
 	}
 	.slider-partners {
 		padding-bottom: 30px;
