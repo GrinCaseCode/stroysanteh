@@ -839,6 +839,7 @@
 	.item-category__image {
 		width: 100%;
 		margin: 0;
+		height: 240px;
 		margin-bottom: 15px;
 	}
 	.item-category__content ul {
@@ -902,7 +903,9 @@
 	}
 	.item-sertficat {
 		height: 450px;
-	}
+    max-width: 315px;
+    margin: 0 auto;
+}
 	.item-partner {
 		margin: 0 7px;
 	}
